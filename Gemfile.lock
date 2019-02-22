@@ -306,6 +306,7 @@ DEPENDENCIES
   coveralls
   cucumber-rails
   database_cleaner
+  factory_bot
   factory_bot_rails
   haml
   jbuilder (~> 2.5)
